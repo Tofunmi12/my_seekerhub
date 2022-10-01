@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myseekerhub", "myseekerhub\myseekerhub.csproj", "{B490B4C8-FD62-48D0-B16E-EA5F5B7B8EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B490B4C8-FD62-48D0-B16E-EA5F5B7B8EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B490B4C8-FD62-48D0-B16E-EA5F5B7B8EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B490B4C8-FD62-48D0-B16E-EA5F5B7B8EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B490B4C8-FD62-48D0-B16E-EA5F5B7B8EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FC6F195-81B6-4AD0-960A-A0547FBB3A10}
+	EndGlobalSection
+EndGlobal
